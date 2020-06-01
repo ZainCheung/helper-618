@@ -37,7 +37,7 @@
 
 # 运行截图
 
-![](https://s1.ax1x.com/2020/05/26/tPKR3t.png)
+![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/jd.png)
 
 ![](https://s1.ax1x.com/2020/05/26/tiJXZt.png)
 
