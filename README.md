@@ -38,13 +38,13 @@
 # 安全性
 删除了APP不需要的权限，只保留了提示框权限和访问设置权限（帮助打开无障碍服务），加了安全签名（为了不让手机误报病毒）并且通过了32个杀毒引擎的测毒。
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/Snipaste_2020-05-24_21-51-14.png[/img])
+![]([img]img/Snipaste_2020-05-24_21-51-14.png[/img])
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/Snipaste_2020-05-24_21-51-30.png[/img])
+![]([img]img/Snipaste_2020-05-24_21-51-30.png[/img])
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/Snipaste_2020-05-29_15-34-16.png[/img])
+![]([img]img/Snipaste_2020-05-29_15-34-16.png[/img])
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/Snipaste_2020-05-29_15-34-31.png[/img])
+![]([img]img/Snipaste_2020-05-29_15-34-31.png[/img])
 
 # 运行截图
 
