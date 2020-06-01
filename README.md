@@ -42,17 +42,17 @@
 
 ![](img/Snipaste_2020-05-24_21-51-30.png)
 
-![]([img]img/Snipaste_2020-05-29_15-34-16.png[/img])
+![](img/Snipaste_2020-05-29_15-34-16.png)
 
-![]([img]img/Snipaste_2020-05-29_15-34-31.png[/img])
+![](img/Snipaste_2020-05-29_15-34-31.png)
 
 # 运行截图
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/jd.png[/img])
+![](img/jd.png)
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/jdhelper.png[/img])
+![](img/jdhelper.png)
 
-![]([img]https://raw.githubusercontent.com/ZainCheung/helper-618/master/img/%E6%B7%98%E5%AE%9D618.png[/img])
+![](img/%E6%B7%98%E5%AE%9D618.png)
 
 # 需要注意
 
