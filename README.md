@@ -38,19 +38,21 @@
 # 安全性
 删除了APP不需要的权限，只保留了提示框权限和访问设置权限（帮助打开无障碍服务），加了安全签名（为了不让手机误报病毒）并且通过了32个杀毒引擎的测毒。
 
-![]([img]https://s1.ax1x.com/2020/05/26/tPKc4A.png[/img])
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/Snipaste_2020-05-24_21-51-14.png[/img])
 
-![]([img]https://s1.ax1x.com/2020/05/29/tuSV4s.png[/img])
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/Snipaste_2020-05-24_21-51-30.png[/img])
 
-![]([img]https://s1.ax1x.com/2020/05/26/tPK29I.png[/img])
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/Snipaste_2020-05-29_15-34-16.png[/img])
+
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/Snipaste_2020-05-29_15-34-31.png[/img])
 
 # 运行截图
 
-![]([img]https://s1.ax1x.com/2020/05/26/tPKR3t.png[/img])
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/jd.png[/img])
 
-![]([img]https://s1.ax1x.com/2020/05/29/tuSm3q.png[/img])
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/jdhelper.png[/img])
 
-![]([img]https://s1.ax1x.com/2020/05/26/tiJXZt.png[/img])
+![]([img]https://github.com/ZainCheung/helper-618/blob/master/img/%E6%B7%98%E5%AE%9D618.png[/img])
 
 # 需要注意
 
