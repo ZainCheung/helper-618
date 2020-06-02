@@ -75,9 +75,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/jd.png)
 
-![](https://s1.ax1x.com/2020/05/26/tiJXZt.png)
+![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/jdhelper.png)
 
-![](https://s1.ax1x.com/2020/05/29/tuSm3q.png)
+![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/淘宝618.png)
 
 # 注意事项
 
