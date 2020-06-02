@@ -1,6 +1,28 @@
-# helper-618
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/logo.png"
+        height="310">
+</p>
+<p align="center">
+    <img alt="Version" src="https://img.shields.io/badge/release-1.3.0-blue"/>
+<a href="https://github.com/ZainCheung"><img alt="Author" src="https://img.shields.io/badge/author-ZainCheung-blueviolet"/></a>
+  <img alt="Vue" src="https://img.shields.io/badge/Auto.js-4.1.1-success"/>
+</p>
 
-一个基于Autojs的淘宝京东618自动刷任务项目，有原生脚本以及app，目前仅支持安卓用户。
+[💡 快速开始](#快速开始)
+
+[📚 功能](#功能)
+
+[🎁 下载地址](#下载地址)
+
+[📷 运行截图](#运行截图)
+
+[🔔 注意事项](#注意事项)
+
+[🔒 安全性](#安全性)
+
+[📋 常见问题](#常见问题)
+
+[👻 责任说明](#责任说明)
 
 # 快速开始
 1. 下载并安装app；
@@ -57,7 +79,7 @@
 
 ![](https://s1.ax1x.com/2020/05/29/tuSm3q.png)
 
-# 需要注意
+# 注意事项
 
 1. app会自动帮你打开京东和淘宝，但是淘宝打开后你需要手动点进活动页面，就是瓜分10亿那个入口；
 2. 如果淘宝app是第一次使用，还需要先进去给你的列车升级到2级以上，不然每次进去都有弹窗；
@@ -70,13 +92,6 @@
 # 安全性
 删除了APP不需要的权限，只保留了提示框权限和访问设置权限（帮助打开无障碍服务），加了安全签名（为了不让手机误报病毒）并且通过了32个杀毒引擎的测毒。
 
-![](https://s1.ax1x.com/2020/05/26/tPKc4A.png)
-
-![](https://s1.ax1x.com/2020/05/26/tPK29I.png)
-
-![](https://s1.ax1x.com/2020/05/29/tuSV4s.png)
-
-![](https://s1.ax1x.com/2020/05/29/tuSeCn.png)
 
 # 常见问题
 **1. 为什么app在打开京东后就没有反应了咋回事？**
