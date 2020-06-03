@@ -73,6 +73,8 @@
 
 # 运行截图
 
+![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/helper-618-beta.png)
+
 ![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/jd.png)
 
 ![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/jdhelper.png)
