@@ -71,6 +71,13 @@
 天翼云地址：https://cloud.189.cn/t/YJF7na7faM7n
 访问码:8yjy
 
+## 淘宝+京东集成尝鲜版脚本
+蓝奏云地址：https://zaincheung.lanzous.com/b00tl6x1g
+密码:bed2
+
+天翼云地址：https://cloud.189.cn/t/3aYnEb3qAb2m
+访问码:ara3
+
 # 运行截图
 
 ![](https://cdn.jsdelivr.net/gh/ZainCheung/helper-618/img/helper-618-beta.png)
