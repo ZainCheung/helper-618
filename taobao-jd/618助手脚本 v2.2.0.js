@@ -541,6 +541,7 @@ function main() {
                                     sleep(random(25, 31) * speed);
                                     for (var t = 0; t < 5; t++) {
                                         if (textContains("浏览以下").findOnce()) {
+                                            while (idContains("view_") == null || idContains("view_").findOnce(t) == null);
                                             log("正在浏览第" + (t + 1) + "个商品！");
                                             idContains("view_").findOnce(t).click();
                                             sleep(random(32, 35) * speed)
