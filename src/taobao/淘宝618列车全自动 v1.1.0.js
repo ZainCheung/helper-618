@@ -53,7 +53,14 @@ log("正在打开淘宝");
 launch("com.taobao.taobao");
 sleep(random(1001, 1021) * speed);
 log("正在等待进入列车活动页面");
-log("请手动点进列车活动页面")
+desc("搜索").findOne().click();
+sleep(random(1001, 1021) * speed);
+idContains("searchEdit").setText("618列车");
+desc("搜索").findOne().click();
+sleep(random(1001, 1021) * speed);
+log("进入淘宝618列车活动界面");
+sleep(random(1001, 1021) * speed);
+//log("请手动点进列车活动页面")
 // sleep(5000);
 className("android.widget.Button").text("做任务，领喵币").waitFor()
 
