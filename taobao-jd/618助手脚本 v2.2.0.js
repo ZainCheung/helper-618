@@ -522,7 +522,7 @@ function main() {
                                     log("开始执行8秒任务");
                                     sleep(random(11, 15) * speed);
                                     a.click();
-                                    sleep(random(101, 111) * speed);
+                                    sleep(random(151, 161) * speed);
                                     textStartsWith("恭喜完成").findOne(8000);
                                     sleep(random(4, 11) * speed);
                                     back();
