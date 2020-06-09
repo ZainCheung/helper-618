@@ -570,6 +570,7 @@ function main() {
                                     sleep(random(21, 31) * speed);
                                     for (var t = 0; t < 5; t++) {
                                         //修复加购问题,删掉了.child(2)子节点
+                                        while (idContains("cart_") == null || idContains("cart_").findOnce(t) == null);
                                         idContains("cart_").findOnce(t).click();
                                         sleep(random(21, 31) * speed)
                                     }
