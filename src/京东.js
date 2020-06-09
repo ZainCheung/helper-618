@@ -131,6 +131,7 @@ while (1) {
                       log("开始执行加购任务");
                       sleep(random(1001, 1031) * speed);
                       for (var t = 0; t < 5; t++) {
+                          while (idContains("cart_") == null || idContains("cart_").findOnce(t) == null);
                           //修复加购问题,删掉了.child(2)子节点
                           idContains("cart_").findOnce(t).click();
                           sleep(random(1001, 1031) * speed)
