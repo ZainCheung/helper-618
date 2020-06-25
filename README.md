@@ -5,6 +5,7 @@
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/release-2.2.0-blue"/>
 <a href="https://github.com/ZainCheung"><img alt="Author" src="https://img.shields.io/badge/author-ZainCheung-blueviolet"/></a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZainCheung.helper-618g"/>
   <img alt="Vue" src="https://img.shields.io/badge/Auto.js-4.1.1-success"/>
 </p>
 
