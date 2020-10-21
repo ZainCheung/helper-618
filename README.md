@@ -54,6 +54,10 @@
 5. 自动完成15秒浏览任务。
 
 # 下载地址
+## 淘宝双11全自动app所有发布版
+蓝奏云地址：https://zaincheung.lanzoui.com/b00txr84h
+密码:73ij
+
 ## 京东叠蛋糕全自动app所有发布版本以及源码
 蓝奏云地址：https://zaincheung.lanzous.com/b00tkff6b
 密码:hcm1
